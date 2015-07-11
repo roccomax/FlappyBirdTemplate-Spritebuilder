@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
-               BuildableName = "FlappyBird.app"
-               BlueprintName = "FlappyBird"
-               ReferencedContainer = "container:FlappyBird.xcodeproj">
+               BuildableName = "FlappyBirdie.app"
+               BlueprintName = "FlappyBirdie"
+               ReferencedContainer = "container:FlappyBirdie.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
-            BuildableName = "FlappyBird.app"
-            BlueprintName = "FlappyBird"
-            ReferencedContainer = "container:FlappyBird.xcodeproj">
+            BuildableName = "FlappyBirdie.app"
+            BlueprintName = "FlappyBirdie"
+            ReferencedContainer = "container:FlappyBirdie.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -48,13 +48,14 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
-            BuildableName = "FlappyBird.app"
-            BlueprintName = "FlappyBird"
-            ReferencedContainer = "container:FlappyBird.xcodeproj">
+            BuildableName = "FlappyBirdie.app"
+            BlueprintName = "FlappyBirdie"
+            ReferencedContainer = "container:FlappyBirdie.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,13 +72,14 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
-            BuildableName = "FlappyBird.app"
-            BlueprintName = "FlappyBird"
-            ReferencedContainer = "container:FlappyBird.xcodeproj">
+            BuildableName = "FlappyBirdie.app"
+            BlueprintName = "FlappyBirdie"
+            ReferencedContainer = "container:FlappyBirdie.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
